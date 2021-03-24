@@ -6,6 +6,7 @@
     <Product>Core.Packages</Product>
     <Company>Rocco-test</Company>
     <PackageId>Core.Logging_rocco</PackageId>
+    <RepositoryUrl>https://github.com/rocco-scaramuzzi/Core.Packages</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
